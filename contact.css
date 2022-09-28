@@ -1,0 +1,90 @@
+body{
+    background: black;
+    color: greenyellow;
+    min-height:100ch;
+}
+header
+{
+   
+     text-align:center;
+     font-size:500%;
+     font-family:"Brush Script MT" , Brush Script Std, cursive; 
+   
+}
+
+img
+{
+  width:20px;
+}
+.logos
+ {
+ 
+    margin:auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+    font-size: 20px;
+    text-align:center;
+    color: greenyellow;
+ }
+ a[href="https://instagram.com/prat_ham1828?r=nametag"]
+ {
+  color: #C13584;
+ }
+ a[href="https://www.facebook.com/profile.php?id=100073376444210"]
+ {
+  color: #4267B2;
+ }
+ a[href="https://www.linkedin.com/in/pratham-dani-0b334a226"]
+ {
+  color: #0A66C2;
+ }
+ a[href="https://www.quora.com/profile/Pratham-Dani?ch=17&oid=798056493&share=06657d91&srid=LNTMV&target_type=user"]
+ {
+  color:#b92b27;
+ }
+ 
+ Facebook
+ {
+  color: #4267B2;
+ }
+ Linkdin
+ {
+  color:#0077b5;
+ }
+ .b
+ {
+     height:30px;
+ }
+ .m
+ {
+    height: 400px;
+ }
+table, th, td 
+{
+  
+    margin:auto;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid white;
+ }
+ footer
+ {
+   position : sticky;
+   top: 100%;
+   text-align: center;
+   background-color:rgb(25,212,25);
+   color:black
+   
+ }
+ @media (max-width:800px) 
+ {
+   header
+   {
+       height:100px;
+       text-align:center;
+       font-size:350%;
+       font-family:"Brush Script MT" , Brush Script Std, cursive; 
+     
+   }
+ }
