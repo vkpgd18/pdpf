@@ -100,7 +100,16 @@ footer
     
     text-align: center;
     font-family:"Brush Script MT" , Brush Script Std, cursive; 
+    animation: blinkingText 2s infinite; 
 }
+@keyframes blinkingText{
+  0%		{ color: whitesmoke;}
+  25%		{ color: #FFD700;}
+  50%		{ color: #ef0a1a;}
+  75%		{ color: rgb(25,212,25);}
+  100%	{ color: #04a1d5;}
+}
+
 
 
 @media (max-width:800px) 
