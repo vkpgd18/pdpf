@@ -96,8 +96,8 @@ footer
 .bio
 {
     margin: auto;
-    width: 50%;
-    padding: 10px;
+    width: 100%;
+    
     text-align: center;
     font-family:"Brush Script MT" , Brush Script Std, cursive; 
 }
